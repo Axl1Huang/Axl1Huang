@@ -111,7 +111,4 @@
   <em>⚡ 持续探索 AI Agent 的无限可能 ⚡</em>
 </p>
 
-<!-- 动态贡献图 -->
-<p align="center">
-  <img src="https://github.com/Axl1Huang/Axl1Huang/blob/main/github-contribution-grid-snake.svg" alt="Contribution Grid Snake" />
-</p>
+
