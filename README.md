@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc?username=Axl1Huang&style=flat-square&color=0E80B5" alt="Profile views" />
-  <a href="mailto:AxlHuangfi@outlook.com">
-    <img src="https://img.shields.io/badge/Email-AxlHuangfi@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  <a href="mailto:yizhan.huang@nju.edu.cn">
+    <img src="https://img.shields.io/badge/Email-yizhan.huang@nju.edu.cn-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -97,7 +97,7 @@
 ## 📫 联系我
 
 <p align="center">
-  <a href="mailto:AxlHuangfi@outlook.com">
+  <a href="mailto:yizhan.huang@nju.edu.cn">
     <img src="https://img.shields.io/badge/📧-Email-0078D4?style=for-the-badge" alt="Email" />
   </a>
   <a href="https://github.com/Axl1Huang">
