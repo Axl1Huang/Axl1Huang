@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc?username=Axl1Huang&style=flat-square&color=0E80B5" alt="Profile views" />
   <a href="mailto:yizhan.huang@nju.edu.cn">
-    <img src="https://img.shields.io/badge/Email-yizhan.huang@nju.edu.cn-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-yizhan.huang@nju.edu.cn-5B1A8A?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -25,13 +25,40 @@
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=239120" alt="C#" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4479A1" alt="SQL" />
-  <img src="https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white&labelColor=FF6A00" alt="Alibaba Cloud" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/AI%20Agents-7B42BC?style=for-the-badge&logo=robotframework&logoColor=white&labelColor=7B42BC" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 🤖 AI & Agent Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
+
+### 💡 AI IDE & Development Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Windsurf-00A1E4?style=for-the-badge&logo=water&logoColor=white" alt="Windsurf" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
 ### 🔧 Core Competencies
@@ -98,7 +125,7 @@
 
 <p align="center">
   <a href="mailto:yizhan.huang@nju.edu.cn">
-    <img src="https://img.shields.io/badge/📧-Email-0078D4?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/📧-Email-5B1A8A?style=for-the-badge" alt="Email" />
   </a>
   <a href="https://github.com/Axl1Huang">
     <img src="https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge" alt="GitHub" />
