@@ -2,19 +2,19 @@
 <h3 align="center">多智能体项目架构师 | AI Agent Architect</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc?username=Axl1Huang&style=flat-square&color=0E80B5" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc?username=Axl1Huang&style=flat-square&color=5B1A8A" alt="Profile views" />
   <a href="mailto:yizhan.huang@nju.edu.cn">
     <img src="https://img.shields.io/badge/Email-yizhan.huang@nju.edu.cn-5B1A8A?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
 </p>
 
+<p align="center">
+  专注于多智能体系统架构设计,致力于构建高效、可扩展的 AI Agent 解决方案
+</p>
+
 ---
 
-## 🚀 About Me
-
-我是一名专注于**多智能体系统架构设计**的开发者,致力于构建高效、可扩展的 AI Agent 解决方案。拥有 1-3 年的开发经验,擅长将复杂的业务需求转化为优雅的技术架构。
-
-### 💼 工作经历
+## 💼 工作经历
 
 - **多智能体项目架构师** | 2023 - Present
   - 设计与构建多智能体协作系统
@@ -23,54 +23,105 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 My Favorite Tools & Technologies
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+### Programming Languages
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+      <br /><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
+      <br /><sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />
+      <br /><sub><b>SQL</b></sub>
+    </td>
+  </tr>
+</table>
 
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+### AI & Agent Frameworks
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="50" height="50" alt="LangChain" onerror="this.src='https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white'" />
+      <br /><sub><b>LangChain</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat&logo=robotframework&logoColor=white" width="50" height="50" />
+      <br /><sub><b>CrewAI</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/Qwen-6B4CFF?style=flat&logo=alibabacloud&logoColor=white" width="50" height="50" />
+      <br /><sub><b>Qwen</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/Kimi-1C3C3C?style=flat&logo=moon&logoColor=white" width="50" height="50" />
+      <br /><sub><b>Kimi</b></sub>
+    </td>
+  </tr>
+</table>
 
-### 🤖 AI & Agent Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/Qwen-6B4CFF?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
-  <img src="https://img.shields.io/badge/Kimi-1C3C3C?style=for-the-badge&logo=moon&logoColor=white" alt="Kimi" />
-</p>
+### AI IDE & Development Tools
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" width="50" height="50" />
+      <br /><sub><b>Cursor</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" width="50" height="50" />
+      <br /><sub><b>Claude Code</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/Qoder-6C5CE7?style=flat&logo=code&logoColor=white" width="50" height="50" />
+      <br /><sub><b>Qoder</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
+      <br /><sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
 
-### 💡 AI IDE & Development Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Qoder-6C5CE7?style=for-the-badge&logo=code&logoColor=white" alt="Qoder" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
+### Cloud & DevOps
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
+      <br /><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/Alibaba-FF6A00?style=flat&logo=alibabacloud&logoColor=white" width="50" height="50" />
+      <br /><sub><b>Alibaba Cloud</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
+      <br /><sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-
-### 🔧 Core Competencies
-
-| 领域 | 技术 |
-|------|------|
-| **编程语言** | Python, C# |
-| **数据库** | SQL, 关系型数据库 |
-| **云平台** | 阿里云 (Alibaba Cloud) |
-| **容器化** | Docker 部署与管理 |
-| **AI 框架** | 智能体框架设计与构建 |
+### Databases
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
+      <br /><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />
+      <br /><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" />
+      <br /><sub><b>Redis</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -89,24 +140,22 @@
 
 ## 🎯 专注领域
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🤖 多智能体系统</h3>
-        <p>Agent 架构设计与协同机制</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>☁️ 云原生部署</h3>
-        <p>阿里云 & Docker 容器化</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🏗️ 架构设计</h3>
-        <p>可扩展系统与框架开发</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🤖 多智能体系统</h3>
+      <p>Agent 架构设计与协同机制</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>☁️ 云原生部署</h3>
+      <p>阿里云 & Docker 容器化</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🏗️ 架构设计</h3>
+      <p>可扩展系统与框架开发</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -122,7 +171,7 @@
 
 ---
 
-## 📫 联系我
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:yizhan.huang@nju.edu.cn">
