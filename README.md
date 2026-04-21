@@ -43,14 +43,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Qwen-6B4CFF?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/Kimi-1C3C3C?style=for-the-badge&logo=moon&logoColor=white" alt="Kimi" />
 </p>
 
 ### 💡 AI IDE & Development Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Windsurf-00A1E4?style=for-the-badge&logo=water&logoColor=white" alt="Windsurf" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Qoder-6C5CE7?style=for-the-badge&logo=code&logoColor=white" alt="Qoder" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
