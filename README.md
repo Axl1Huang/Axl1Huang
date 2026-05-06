@@ -23,102 +23,44 @@
 
 ---
 
-## 💻 My Favorite Tools & Technologies
+## 🛠️ Tech Stack
 
-### Programming Languages
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-      <br /><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
-      <br /><sub><b>C#</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />
-      <br /><sub><b>SQL</b></sub>
+    <td align="right" width="180"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,cs,postgres&theme=dark" alt="Languages" />
     </td>
   </tr>
-</table>
-
-### AI & Agent Frameworks
-<table>
   <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="50" height="50" alt="LangChain" onerror="this.src='https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white'" />
-      <br /><sub><b>LangChain</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat&logo=robotframework&logoColor=white" width="50" height="50" />
-      <br /><sub><b>CrewAI</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://img.shields.io/badge/Qwen-6B4CFF?style=flat&logo=alibabacloud&logoColor=white" width="50" height="50" />
-      <br /><sub><b>Qwen</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://img.shields.io/badge/Kimi-1C3C3C?style=flat&logo=moon&logoColor=white" width="50" height="50" />
-      <br /><sub><b>Kimi</b></sub>
+    <td align="right"><b>🤖 AI & Agent Frameworks</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=langchain&theme=dark" alt="LangChain" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=crewai&theme=dark" alt="CrewAI" height="48" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=qwen&theme=dark" alt="Qwen" height="48" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=kimi&theme=dark" alt="Kimi" height="48" />
     </td>
   </tr>
-</table>
-
-### AI IDE & Development Tools
-<table>
   <tr>
-    <td align="center" width="80">
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" width="50" height="50" />
-      <br /><sub><b>Cursor</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" width="50" height="50" />
-      <br /><sub><b>Claude Code</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://img.shields.io/badge/Qoder-6C5CE7?style=flat&logo=code&logoColor=white" width="50" height="50" />
-      <br /><sub><b>Qoder</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
-      <br /><sub><b>VS Code</b></sub>
+    <td align="right"><b>💡 AI IDE & Dev Tools</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark" alt="Cursor" height="48" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" alt="Claude Code" height="48" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=qoder&theme=dark" alt="Qoder" height="48" />
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
     </td>
   </tr>
-</table>
-
-### Cloud & DevOps
-<table>
   <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
-      <br /><sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://img.shields.io/badge/Alibaba-FF6A00?style=flat&logo=alibabacloud&logoColor=white" width="50" height="50" />
-      <br /><sub><b>Alibaba Cloud</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
-      <br /><sub><b>Linux</b></sub>
+    <td align="right"><b>☁️ Cloud & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" alt="Docker, Linux" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=aliyun&theme=dark" alt="Alibaba Cloud" height="48" />
     </td>
   </tr>
-</table>
-
-### Databases
-<table>
   <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
-      <br /><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />
-      <br /><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" />
-      <br /><sub><b>Redis</b></sub>
+    <td align="right"><b>🗄️ Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" alt="MySQL, PostgreSQL, Redis" />
     </td>
   </tr>
 </table>
