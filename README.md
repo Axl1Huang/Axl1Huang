@@ -1,25 +1,31 @@
-<h1 align="center">Hi 👋, I'm Axl Huang</h1>
-<h3 align="center">多智能体项目架构师 | AI Agent Architect</h3>
+<h1 align="center">黄一展 · Yizhan Huang</h1>
+<h3 align="center">多智能体系统架构师 · AI Framework Architect</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc?username=Axl1Huang&style=flat-square&color=5B1A8A" alt="Profile views" />
-  <a href="mailto:yizhan.huang@nju.edu.cn">
-    <img src="https://img.shields.io/badge/Email-yizhan.huang@nju.edu.cn-5B1A8A?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  <a href="https://axl-resume.pages.dev">
+    <img src="https://img.shields.io/badge/Resume-axl--resume.pages.dev-FF6B4A?style=flat-square" alt="Resume" />
   </a>
+  <a href="mailto:yizhan.huang@nju.edu.cn">
+    <img src="https://img.shields.io/badge/Email-yizhan.huang@nju.edu.cn-FF6B4A?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc?username=Axl1Huang&style=flat-square&color=FF6B4A" alt="Profile views" />
 </p>
 
 <p align="center">
-  专注于多智能体系统架构设计,致力于构建高效、可扩展的 AI Agent 解决方案
+  南京大学水质风险控制工程组 · 院士团队 AI 主力<br>
+  端到端主导 4 套多智能体系统，从对抗式设计到工业 PLC 闭环落地
 </p>
 
 ---
 
-## 💼 工作经历
+## 🚀 代表项目
 
-- **多智能体项目架构师** | 2023 - Present
-  - 设计与构建多智能体协作系统
-  - 负责智能体框架的架构设计与核心开发
-  - 优化智能体间的通信与协同机制
+| 项目 | 领域 | 成果 |
+|---|---|---|
+| **ECOMATS** | 水处理催化材料 | [Nature Water 论文](https://doi.org/10.1038/s44221-026-00634-9)（第三作者）· 10 Agent × 14 工具 |
+| **WaterClaw** | 多智能体 PLC 实时控制 | 中试设备 94 天无人值守零宕机 |
+| **ADRMATS** | 吸附材料设计 | 固定 pipeline 编排 · Qwen ↔ DeepSeek 对抗式双 Proposer |
+| **Biocrew** | 微生物群落设计 | 三层 Orchestrator · 代谢通量建模 |
 
 ---
 
@@ -27,40 +33,38 @@
 
 <table align="center">
   <tr>
-    <td align="right" width="180"><b>💻 Languages</b></td>
+    <td align="right" width="190"><b>💻 Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,cs,postgres&theme=dark" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=python,cs,cpp&theme=dark" alt="Python, C#, C++" />
     </td>
   </tr>
   <tr>
-    <td align="right"><b>🤖 AI & Agent Frameworks</b></td>
+    <td align="right"><b>🤖 Agent Frameworks</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=langchain&theme=dark" alt="LangChain" />
       <img src="https://go-skill-icons.vercel.app/api/icons?i=crewai&theme=dark" alt="CrewAI" height="48" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=qwen&theme=dark" alt="Qwen" height="48" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=kimi&theme=dark" alt="Kimi" height="48" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=langgraph&theme=dark" alt="LangGraph" height="48" />
     </td>
   </tr>
   <tr>
-    <td align="right"><b>💡 AI IDE & Dev Tools</b></td>
+    <td align="right"><b>🧠 LLM</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark" alt="Cursor" height="48" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" alt="Claude Code" height="48" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=qoder&theme=dark" alt="Qoder" height="48" />
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=qwen&theme=dark" alt="Qwen" height="48" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=deepseek&theme=dark" alt="DeepSeek" height="48" />
     </td>
   </tr>
   <tr>
-    <td align="right"><b>☁️ Cloud & DevOps</b></td>
+    <td align="right"><b>🗄️ Data & Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,mysql&theme=dark" alt="FastAPI, PostgreSQL, Redis, MySQL" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j&theme=dark" alt="Neo4j" height="48" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>☁️ DevOps</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" alt="Docker, Linux" />
       <img src="https://go-skill-icons.vercel.app/api/icons?i=aliyun&theme=dark" alt="Alibaba Cloud" height="48" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🗄️ Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" alt="MySQL, PostgreSQL, Redis" />
     </td>
   </tr>
 </table>
@@ -74,60 +78,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axl1Huang&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axl1Huang&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
-
-## 🎯 专注领域
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🤖 多智能体系统</h3>
-      <p>Agent 架构设计与协同机制</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>☁️ 云原生部署</h3>
-      <p>阿里云 & Docker 容器化</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🏗️ 架构设计</h3>
-      <p>可扩展系统与框架开发</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💡 工作理念
-
-> *"优秀的架构不是添加更多功能,而是让复杂系统变得简单而优雅。"*
-
-我相信好的多智能体系统应该:
-- ✨ **模块化**: 清晰的职责划分与接口设计
-- 🔗 **协同性**: 智能体间高效通信与协作
-- 📈 **可扩展**: 支持快速迭代与功能扩展
-- 🛡️ **稳定性**: 容错机制与高可用设计
-
----
-
-## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:yizhan.huang@nju.edu.cn">
-    <img src="https://img.shields.io/badge/📧-Email-5B1A8A?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-yizhan.huang@nju.edu.cn-FF6B4A?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Axl1Huang">
-    <img src="https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge" alt="GitHub" />
+  <a href="https://axl-resume.pages.dev">
+    <img src="https://img.shields.io/badge/Resume-FF6B4A?style=for-the-badge" alt="Resume" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <em>⚡ 持续探索 AI Agent 的无限可能 ⚡</em>
-</p>
-
-
