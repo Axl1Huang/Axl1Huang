@@ -38,14 +38,14 @@
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=crewai&theme=dark" height="40" alt="CrewAI" />
       <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" height="40" alt="LangChain" />
-      <img src="https://cdn.simpleicons.org/langchain/ff6b4a" height="40" alt="LangGraph" />
+      <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="LangGraph" />
     </td>
   </tr>
   <tr>
     <td align="right"><b>🧠 Models</b></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=deepseek&theme=dark" height="40" alt="DeepSeek" />
-      <img src="https://cdn.simpleicons.org/qwen/ff6b4a" height="40" alt="Qwen" />
+      <img src="https://cdn.simpleicons.org/qwen" height="40" alt="Qwen" />
     </td>
   </tr>
   <tr>
