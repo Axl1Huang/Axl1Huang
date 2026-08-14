@@ -24,24 +24,47 @@
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" height="40" alt="Python" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs&theme=dark" height="40" alt="C#" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&theme=dark" height="40" alt="C++" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=crewai&theme=dark" height="40" alt="CrewAI" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" height="40" alt="LangChain" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=deepseek&theme=dark" height="40" alt="DeepSeek" />
-  <code>Qwen</code>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" height="40" alt="FastAPI" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" height="40" alt="PostgreSQL" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&theme=dark" height="40" alt="Redis" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j&theme=dark" height="40" alt="Neo4j" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" height="40" alt="Docker" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark" height="40" alt="Linux" />
-</p>
+<table align="center">
+  <tr>
+    <td align="right" width="180"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" height="40" alt="Python" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs&theme=dark" height="40" alt="C#" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&theme=dark" height="40" alt="C++" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🤖 Agent Frameworks</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=crewai&theme=dark" height="40" alt="CrewAI" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" height="40" alt="LangChain" />
+      <code>LangGraph</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🧠 Models</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=deepseek&theme=dark" height="40" alt="DeepSeek" />
+      <img src="https://img.shields.io/badge/Qwen-FF6B4A?style=flat-square&logo=qwen&logoColor=white" alt="Qwen" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🗄️ Backend & Data</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" height="40" alt="FastAPI" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" height="40" alt="PostgreSQL" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&theme=dark" height="40" alt="Redis" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j&theme=dark" height="40" alt="Neo4j" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>☁️ Infra</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" height="40" alt="Docker" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark" height="40" alt="Linux" />
+    </td>
+  </tr>
+</table>
 
 ---
 
