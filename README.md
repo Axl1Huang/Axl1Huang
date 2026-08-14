@@ -38,7 +38,6 @@
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=crewai&theme=dark" height="40" alt="CrewAI" />
       <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" height="40" alt="LangChain" />
-      <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="LangGraph" />
     </td>
   </tr>
   <tr>
