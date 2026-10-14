@@ -5,7 +5,7 @@
   <a href="mailto:yizhan.huang@nju.edu.cn">
     <img src="https://img.shields.io/badge/Email-yizhan.huang@nju.edu.cn-FF6B4A?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Axl1Huang&style=flat-square&color=FF6B4A" alt="Profile views" />
+  <img src="https://hits.sh/github.com/Axl1Huang.svg?style=flat-square&label=Profile%20views&color=FF6B4A" alt="Profile views" />
 </p>
 
 ---
